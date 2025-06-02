@@ -27,7 +27,7 @@ With a foundation in **ICS (Computer Science)**, I'm on a mission to merge **AI*
 # 📫 Connect with Me:
 
 - 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-haseeb-739884317/))
-- 🌐 [Portfolio Website]([https://your-portfolio.com](https://haseeb-portfolio-app9323.streamlit.app/)) (Coming soon!)
+- 🌐 [Portfolio Website]([https://haseeb-portfolio-app9323.streamlit.app/])
 - 📧 Email: [your-email@example.com](muhammadhaseeb9323@gmail.com)
 
 Let's collaborate and create something amazing together! 🚀
