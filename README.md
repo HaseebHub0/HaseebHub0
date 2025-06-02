@@ -1,31 +1,34 @@
-# 💫 About Me:
+# 👋 Hello, I'm Muhammad Haseeb
 
-👋 Hi, I'm **Muhammad Haseeb**, a passionate developer and machine learning enthusiast.🌱 I’m currently learning advanced regression techniques and working on ML projects.🎓 I've studied various programming languages like Python, Dart, Java, C++, C#, JavaScript, and more.💻 I'm building projects in Flutter, Streamlit, and exploring game development using Unity.📊 I'm focused on Data Analysis, Machine Learning, and creating interactive apps.🚀 I aim to contribute to open-source projects and collaborate on innovative ML projects.
+I'm a self-taught Web Developer and Machine Learning enthusiast from Pakistan.  
+With a foundation in **ICS (Computer Science)**, I'm on a mission to merge **AI** with **modern web development**.
 
----
+## 🔧 Tech Stack
+- **Frontend:** Next.js, React.js, Tailwind CSS, JavaScript, HTML, CSS  
+- **Backend (in progress):** Node.js, NestJS, REST APIs  
+- **AI/ML Tools:** Python, scikit-learn, pandas, NumPy, LangChain, OpenAI (learning phase)
 
-# 🚀 Skills and Technologies:
+## 🧠 What I’m Learning Now
+- Building ML-powered websites & chatbots (LLM, RAG, GPT-4 All)
+- Deep Learning & NLP (for future AI projects)
+- Ethical hacking (as a side curiosity)
 
-- **Languages:** Python (proficient), HTML/CSS (proficient), Dart (basic), Java (basic), C++ (basic), C# (basic), JavaScript (basic)
-- **Frameworks & Libraries:** Flutter, Streamlit, Tkinter, Unity
-- **Data Science & ML:** Scikit-learn, Pandas, NumPy, Matplotlib, TensorFlow (learning phase)
-- **Tools & Platforms:** GitHub, Figma, Upwork
+## 🌟 Projects I'm Proud Of
+- Portfolio Website (Next.js + Tailwind CSS)
+- Custom RAG Chatbot using LangChain + FAISS (WIP)
+- E-commerce frontend with micro-interactions (using V0)
 
----
+## 🎯 Goals
+- 🔥 Become an AI Engineer & Full-Stack Web Developer  
+- 🚀 Launch SaaS tools powered by AI  
+- 🌐 Share knowledge through content & open-source
 
-# 📈 Projects and Contributions:
-
-- 🏗️ **Portfolio Projects:** Flutter portfolio app, Streamlit ML portfolio with project demos
-- 🤖 **ML Projects:** House Price Prediction using regression models, ML demos in Streamlit
-- 🎮 **Games:** I have an idea for an Islamic open-world game and plan to develop it in the future.
-
----
 
 # 📫 Connect with Me:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🌐 [Portfolio Website](https://your-portfolio.com) (Coming soon!)
-- 📧 Email: [your-email@example.com](mailto\:your-email@example.com)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-haseeb-739884317/))
+- 🌐 [Portfolio Website]([https://your-portfolio.com](https://haseeb-portfolio-app9323.streamlit.app/)) (Coming soon!)
+- 📧 Email: [your-email@example.com](muhammadhaseeb9323@gmail.com)
 
 Let's collaborate and create something amazing together! 🚀
 
